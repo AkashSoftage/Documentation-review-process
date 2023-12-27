@@ -11,3 +11,5 @@ Document review process in github helps ensure that documentation is accurate, c
 5. approval and merging
 6. Automated testing
 7. archiving and versioning
+
+Information has updated.
